@@ -1,0 +1,10 @@
+{"OneKey": "value of OneKey", "secondKey": "value of secondKey"}
+
+{
+    "name": "Tharushi",
+    "age": 24,
+    "teleNo": [
+        "0775806920",
+        "0773955110"
+    ]
+}
